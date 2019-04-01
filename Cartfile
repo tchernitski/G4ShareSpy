@@ -1,2 +1,3 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "implement-cgmmanager"
+github "tchernitski/LoopKit" "anna"
+#github "tchernitski/dexcom-share-client-swift" "implement-cgmmanager"
+github "tchernitski/dexcom-share-client-swift" "master"
